@@ -8,3 +8,5 @@ el examen es mañama
 estoy estudiando
 
 me quedan pocos examenes
+
+me quedare tarde estudiando
