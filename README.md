@@ -10,3 +10,5 @@ estoy estudiando
 me quedan pocos examenes
 
 me quedare tarde estudiando
+
+estoy viendo los videos de victor
